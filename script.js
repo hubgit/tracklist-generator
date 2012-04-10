@@ -1,5 +1,5 @@
-var BlobBuilder = window.BlobBuilder || window.WebKitBlobBuilder || window.mozBlobBuilder;
-var URL = window.URL || window.webkitURL || window.mozURL;
+window.BlobBuilder = window.BlobBuilder || window.WebKitBlobBuilder || window.MozBlobBuilder;
+window.URL = window.URL || window.webkitURL || window.MozURL;
 
 var trackList = $("#trackList");
 
