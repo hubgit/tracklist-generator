@@ -50,7 +50,7 @@ var updateTrackList = function(){
 	items.forEach(function addTrack(item){
 		item = item.replace(/^\d+\.\s+/, "");
 
-		var track = item.split(/\s+[-–]\s+/);
+		var track = item.split(/\s+[-–—]\s+/);
 		if (track.length < 2) return;
 
 		var trackNode = $("<li/>", { "itemscope": "", "itemtype": "http://schema.org/MusicRecording", "class": "haudio" });
