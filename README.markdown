@@ -7,3 +7,5 @@ Put each track on a new line, with artist and title separated by a hyphen. For e
     Unsane – This Town
 
 <a href="http://hubgit.github.com/tracklist-generator/">Try it here</a>.
+
+Note: most of the code is in the gh-pages branch.
