@@ -5,3 +5,5 @@ Put each track on a new line, with artist and title separated by a hyphen. For e
     Melvins – Glooey Porch Treatments
     Jesus Lizard – Mistletoe
     Unsane – This Town
+
+<a href="https://github.com/hubgit/tracklist-generator">Try it here</a>.
